@@ -1,0 +1,25 @@
+body{
+    background-color: grey;
+}
+
+#btn{
+    background-color: rgb(59, 60, 61);
+    color:white;
+    font-family: consolas, monospace;
+    font-size: 16px;
+    position: relative;
+    top: 320px;
+    left: 730px;
+    width: 110px;
+    font-size: 18px;
+}
+
+#output{
+    text-align: center;
+   position: relative;
+   top: 300px;
+   left: 30px;
+   font-size: 23px;
+   color: white;
+}
+
